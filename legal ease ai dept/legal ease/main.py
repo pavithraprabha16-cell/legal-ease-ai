@@ -1,0 +1,1 @@
+fc:\Users\QASBCA-01\Desktop\legal ease ai dept\legal ease\main.py
